@@ -128,7 +128,7 @@ source: https://mp.weixin.qq.com/s/ARTICLE_ID
 
 ## MCP server
 
-这个项目也可以作为 MCP server 运行，让本地 AI 工具调用转换能力。
+这个项目也可以作为 MCP server 运行，让本地 AI 工具调用转换功能。
 
 ```bash
 python mcp_server.py
